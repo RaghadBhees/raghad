@@ -1,0 +1,56 @@
+body{
+    margin: 0;
+    padding: 0px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+background-image: url(pngtree-abstract-white-cv-simple-asymmetry-picture-image_1346378.jpg);
+}
+h2 {
+    color: red;
+    margin-left: 10%;
+}
+h1{
+    color: white;
+    text-align: center;
+   
+}
+p{
+    font-size: 19px;
+    color: white;
+    margin-left: 5%;
+}
+#light-layer{
+width: 85%;
+height: 700px;
+background-color: rgba(0, 0, 0, 0.7);
+margin: auto;
+margin-top: 5%;
+border-radius: 10%;
+}
+.photo{
+    width: 10%;
+margin-left: 5%;
+
+}
+img{
+    width: 200px;
+    height: 280px;
+    border-radius: 50%;
+    border: solid 4px white ;
+}
+.about{
+    
+}
+.right-block{
+    float: right;
+    margin-top: -500px;
+}
+.button{
+    color: blue;
+    background-color: skyblue;
+    width: 90px;
+    height: 30px;
+   border-radius: 3px;
+   border: 0px;
+
+
+}
